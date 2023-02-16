@@ -7,7 +7,7 @@
 <ul>
   <li> PHP </li>
   <li> Javascript </li>
-  <li> Symfony </li>
+  <li> Symfony, yii2 </li>
   <li> MySQL, Postgres </li>
   <li> Docker </li>
   <li> OS Unix </li>
